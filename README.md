@@ -1,6 +1,4 @@
-# Holaaa / Hiiii 👾
-
-## ES
+# ES: Holaaa 👾
 
 ## Soy Angel Fabrizio un desarrollador full-stack
 
@@ -28,7 +26,7 @@ He trabajado con una gran variedad de lenguajes de progrmacion como lo son:
  - Una aplicacion que reproduce y guarda sonidos pequeños hecha en Laravel que utiliza Redis desplegado en contenedores docker (Puesto en "Proyecto Redis")
  - Una aplicacion de contador de repeticiones de ejericios con computer vision, desarrollado en python utilizando la libreria de mediapipe. (Puesto en "Aplicacion-Ejercicio-Intefaces")
 
-## EN
+# EN: Hiiii 👾
 
 ## I'm Angel Fabrizio a full-stack developer
 
